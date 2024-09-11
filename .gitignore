@@ -1,0 +1,22 @@
+# Сборочные директории
+dist/
+out-tsc/
+
+# Node.js зависимости
+node_modules/
+
+# Временные файлы
+/tmp
+/temp
+
+# Логи и кеши
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE файлы
+.idea/
+.vscode/
+
+# Angular CLI специфичные файлы
+.angular/
